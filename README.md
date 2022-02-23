@@ -36,7 +36,7 @@ pip install django-rest-auth[with_social]
 
 Important concepts 
 
-why us binascii , OS, Lazy translation, Model verbose
+why use binascii , OS, Lazy translation, Model verbose
 
 binascii : Convert between binary and ASCII
 
